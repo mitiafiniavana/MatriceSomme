@@ -1,1 +1,1 @@
-# MatriceSomme
+Somme de deux matrices
